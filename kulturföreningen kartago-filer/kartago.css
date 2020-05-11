@@ -1,0 +1,21 @@
+body {	font-family: verdana; font-size:10px; color:#797979; background-color: #ECECEC;	
+margin-left: 0px; margin-top: 0px;
+scrollbar-face-color:#ECECEC;
+scrollbar-arrow-color:#0D5D0D;
+scrollbar-track-color:#ECECEC;
+scrollbar-shadow-color:#0D5D0D;
+scrollbar-highlight-color:#ECECEC;
+scrollbar-3dlight-color:#0D5D0D;
+scrollbar-darkshadow-color:#ECECEC; 
+}
+B {font-family: verdana; font-size:10px; color:#FF601D; font-weight: bold}
+B.g {font-family: verdana; font-size:10px; color:#005500; font-weight: bold}
+p {font-family: verdana; font-size:10px; color:#797979}
+td {font-family: verdana; font-size:10px; color:#797979}
+A:link {text-decoration: none; color: #005500; font-weight: bold}
+A:visited {text-decoration: none; color: #797979; font-weight: bold}
+A:active {text-decoration: none; color: #797979; font-weight: bold}
+A:hover {text-decoration: bold; color: #797979; font-weight: bold}
+img.red {border: #CC4431 solid 2px; }
+
+#AAA9A
